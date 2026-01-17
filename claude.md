@@ -4,7 +4,7 @@ A small WinForms utility that displays current Ethernet link speed in an always-
 
 ## Purpose
 
-Some Ethernet adapters (like the Killer E3100G 2.5 Gigabit) occasionally negotiate at lower speeds (100 Mbps instead of 2.5 Gbps). This tool monitors the link speed and provides a quick way to reset the adapter to force renegotiation.
+My ethernet adapters, the Killer E3100G 2.5 Gigabit, is occasionally re-negotiating at lower speeds (10/100/1000 Mbps instead of 2.5 Gbps). This tool monitors the link speed and provides a quick way to reset the adapter to force renegotiation.
 
 ## Tech Stack
 
